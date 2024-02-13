@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://image.yes24.com/goods/94512701/XL" width="250" height="300">
 </p>
+
 ## 3. 데이터베이스
 <p align="center">
   <img src="https://image.yes24.com/goods/106495023/XL" width="250" height="300">
