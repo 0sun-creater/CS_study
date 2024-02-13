@@ -6,7 +6,7 @@
 
 ### 과목별 공부 참고도서
 ## 1. 컴퓨터구조 + 운영체제
-<img src="[](https://image.yes24.com/goods/111727289/XL)">
+<img src="https://image.yes24.com/goods/111727289/XL" align="right" width="100" height="100">
 
 ## 2. 네트워크
 ![](https://image.yes24.com/goods/94512701/XL)
