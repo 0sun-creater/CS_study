@@ -11,7 +11,12 @@
 </p>
 
 ## 2. 네트워크
-![](https://image.yes24.com/goods/94512701/XL)
+<p align="center">
+  <img src="https://image.yes24.com/goods/94512701/XL" width="250" height="300">
+</p>
 ## 3. 데이터베이스
-![](https://image.yes24.com/goods/106495023/XL)
+<p align="center">
+  <img src="https://image.yes24.com/goods/106495023/XL" width="250" height="300">
+</p>
+
 
